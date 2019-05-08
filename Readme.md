@@ -19,14 +19,14 @@
 ## Hovedoppgave
 
 - Følge kravspec og holde seg til den
-- Fulgt prinsipper for coupling, coheison og responsebility driven design
+- Følge prinsipper for coupling, coheison og responsebility driven design
 - Fornuftig og god samhandling med sluttbruker
 - Oppgi alltid **enheter** på mål
 - Bruke riktig løkke. Helst while med iterator
 - Bruke av add-metode for å legge til i liste
-- getIterator vs. implement iterator. Best å implementere interfacet **SJEKK UT**
+- getIterator vs. implement iterator. Best å implementere interfacet 
 - Lage hjelpemetoder. High cohesion
-- Sjekke at vi aldri deler på 0
+- Sjekke at vi aldri deler på 0/null
 - Gi beskjed til brukeren når noe har gått galt og når noe har gått som det skal
 - Ikke bruke toString i utskrift av registeret
 
