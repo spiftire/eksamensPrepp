@@ -35,6 +35,11 @@
 - Lage abstract klasse
 - Implementere alle klasser
 
+## Exception
+
+- Excpetions skal ikke brukes til å replace if setningen, men brukes som et hjelpemiddel i checkene
+- Når man lager nye exceptions må man tenkte gjennom om det skal værechecked eller unchecked. Kommenter i klassen hvorfor den er det ene eller andre
+
 ## Tester
 
 - Lage tester
